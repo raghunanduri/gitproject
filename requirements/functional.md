@@ -1,0 +1,3 @@
+high processer
+great cam
+
