@@ -1,0 +1,9 @@
+<`:wq
+<<<<<< HEAD
+Rajahellow is to delete
+ aall raj is to test
+=======
+tta  call raj is to test
+Raja is to delete
+>>>>>>> master
+
